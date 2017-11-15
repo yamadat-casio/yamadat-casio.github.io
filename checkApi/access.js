@@ -115,9 +115,6 @@ function receiveResponse(message){
 			}
 		}
 	}
-	
-	
-	
 }
 
 
